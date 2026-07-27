@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the My RC Hangar app for mobile devices, together with any related services operated by Tomer Hasson (collectively, the "Application"). Tomer Hasson is hereby referred to as the "Service Provider".
+This privacy policy applies to the My RC Hangar app for mobile devices, together with any related services operated by the application (collectively, the "Application").
 
 **Information Collection and Use**
 
