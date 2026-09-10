@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "T44SA628Z9.com.myrchangar.myrchangarApp",
+        "paths": ["/profile/*", "/p/*", "!/profile/blocked/*"]
+      }
+    ]
+  }
+}
