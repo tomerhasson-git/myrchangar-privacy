@@ -1,10 +1,12 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "T44SA628Z9.com.myrchangar.myrchangarApp",
-        "paths": ["/profile/*", "/p/*", "!/profile/blocked/*"]
+        "appIDs": ["T44SA628Z9.com.myrchangar.myrchangarApp"],
+        "components": [
+          { "/": "/battery/increment", "?": { "id": "?*" } },
+          { "/": "/flight/log", "?": { "model_id": "?*" } }
+        ]
       }
     ]
   }
